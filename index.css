@@ -148,7 +148,6 @@ i{
     }
 }
 
-/* Responsive CSS Media Queries */
 @media only screen and (max-width: 414px) {
     /**/
     .benefits-content-pic-wrapper{
@@ -158,7 +157,7 @@ i{
         width: 80%;
     }
     .benefits-section-wrapper {
-        height: 120vh;
+        height: 110vh;
     }
     .benefits-title>h2{
         font-size: 2.25rem;
