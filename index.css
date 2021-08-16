@@ -104,6 +104,9 @@ i{
 
 /* Responsive CSS */
 @media only screen and (max-width: 768px){
+    .benefits-section-wrapper{
+        height: 100vh;
+    }
     .benefits-content-pic-wrapper{
         width: 100%;
         height: 500px;
