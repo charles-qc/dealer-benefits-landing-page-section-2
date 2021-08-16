@@ -115,6 +115,9 @@ i{
     .main-section{
         height: auto;
     }
+    .benefits-content-wrapper{
+        justify-content: normal;
+    }
     .benefits-list-wrapper{
         width: 90%;
     }
