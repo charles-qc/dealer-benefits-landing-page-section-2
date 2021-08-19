@@ -18,7 +18,7 @@
     width: 100%;
     margin: 0 auto;
     padding: 0;
-    height: 50vh;
+    height: 55vh;
     background-color: #c80000;
 }
 
@@ -117,7 +117,7 @@
 /* Responsive CSS Media Queries */
 @media only screen and (max-width: 1280px){
     .benefits-section-wrapper{
-        height: 70vh;
+        height: 115vh;
     }
 }
 
@@ -152,4 +152,4 @@
         font-size: 2.25rem;
     }
 }
- 
+
